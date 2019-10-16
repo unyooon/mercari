@@ -1,2 +1,2 @@
-# merucari
+# mercari
 メルカリでいろいろ遊ぶ
